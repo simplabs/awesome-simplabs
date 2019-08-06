@@ -14,6 +14,8 @@ A list of tools and things we use and are awesome.
 
 - [Sketch](https://www.sketch.com) - Our preferred editor for UI design
 - [Abstract](https://www.abstract.com) - Organize Sketch files with version control and collaboration
+- [ImageAlpha](https://pngmini.com) - Lossy compression for PNGs with support for fading alpha values
+- [ImageOptim](https://imageoptim.com) - Compress images without comprimising quality
 
 ### Sketch plugins
 
